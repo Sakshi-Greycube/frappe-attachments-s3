@@ -2,5 +2,5 @@
 frappe = ">=16.0.0,<17.0.0"
 
 dependencies = [
-	python-magic==0.4.18
+	"python-magic==0.4.18",
 ]
