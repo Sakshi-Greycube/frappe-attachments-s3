@@ -1,4 +1,5 @@
 [project]
+dynamic = ["version"]
 dependencies = [
     "python-magic==0.4.18",
     "boto3>=1.34.0",
